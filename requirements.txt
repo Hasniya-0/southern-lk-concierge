@@ -1,0 +1,7 @@
+streamlit 
+groq 
+requests 
+chromadb 
+sentence-transformers 
+langchain-text-splitters 
+python-dotenv 
